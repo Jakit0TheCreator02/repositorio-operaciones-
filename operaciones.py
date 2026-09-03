@@ -4,7 +4,7 @@ resta = numero1 - numero2
 multiplicacion = numero1 * numero2
 division = numero1 / numero2
 
-print ("La suma de los dos numeros es : ", suma)
-print ("La resta de los dos numeros es : ", resta)
-print ("La multiplicacion de los dos numeros es : ", multiplicacion)
-print ("La division de los dos numeros es : ", division)
+print ("SUMA DE NUMEROS  : ", suma)
+print ("RESTA DE NUMEROS  : ", resta)
+print ("MULTPLICACION ES  : ", multiplicacion)
+print ("DIVISION DE : ", division)
